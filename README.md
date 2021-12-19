@@ -26,7 +26,8 @@ Algumas das tecnologias utilizadas foram: HTML, CSS,  JavaScript, Swiper, Scroll
 
 Você pode abrir o website através do link abaixo.
 
-`https://anderson-andre-p.github.io/christmas-website/`
+<a href="https://anderson-andre-p.github.io/christmas-website/" target="" alt="">Clique aqui</a>
+<!-- `https://anderson-andre-p.github.io/christmas-website/` -->
 
  _O website funciona em qualquer navegador moderno_
 
