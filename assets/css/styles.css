@@ -491,3 +491,46 @@ body.dark-theme {
     background-color: var(--first-color);
 }
 
+/*=============== MESSAGE ===============*/
+
+.message__container {
+    row-gap: 3rem;
+    background-color: var(--first-color);
+    padding: 2.5rem 1.5rem 2.5rem;
+    border-radius: 1.25rem;
+}
+
+.message__form {
+    text-align: center;
+}
+
+.message__title {
+    color: #FFF;
+    margin-bottom: var(--mb-1-5);
+}
+
+.message__input {
+    width: 100%;
+    background: #FFF;
+    color: var(--text-color);
+    padding: 1rem 1.5rem;
+    border-radius: 3rem;
+    border: none;
+    outline: none;
+    margin-bottom: var(--mb-1);
+}
+
+.message__button {
+    background-color: var(--title-color);
+    width: 100%;
+}
+
+.message__button:hover {
+    background-color: var(--title-color);
+}
+
+.message__img {
+    width: 200px;
+    justify-self: center;
+    transform: rotate(15deg);
+}
