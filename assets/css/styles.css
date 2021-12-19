@@ -615,3 +615,33 @@ body.dark-theme {
     top: 75%;
     right: -4rem;
 }
+
+/*=============== SCROLL UP ===============*/
+
+.scrollup {
+    position: fixed;
+    right: 1rem;
+    bottom: -30%;
+    background-color: var(--container-color);
+    box-shadow: 0 4px 12px hsla(0, 0%, 20%, .1);
+    display: inline-flex;
+    padding: .35rem;
+    border-radius: .25rem;
+    z-index: var(--z-tooltip);
+    opacity: .8;
+    transition: .4s;
+}
+
+.scrollup:hover {
+    opacity: 1;
+}
+
+.scrollup__icon {
+    font-size: 1.25rem;
+    color: var(--first-color);
+}
+
+.show-scroll {
+    bottom: 3rem;
+}
+
