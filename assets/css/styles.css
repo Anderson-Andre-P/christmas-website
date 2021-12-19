@@ -312,3 +312,19 @@ body.dark-theme {
     padding: 0 2rem;
     margin-bottom: var(--mb-2-5);
 }
+
+/*=============== BUTTONS ===============*/
+
+.button {
+    display: inline-block;
+    background-color: var(--first-color);
+    color: #FFF;
+    padding: 1.15rem 2.75rem;
+    font-weight: var(--font-medium);
+    border-radius: 3rem;
+    transition: .3s;
+}
+
+.button:hover {
+    background-color: var(--first-color-alt);
+}
