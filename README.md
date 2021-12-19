@@ -38,8 +38,8 @@ Se você quiser baixar o repositório no seu computador digite o comand abaixo e
 ---
 
 <a href="https://www.linkedin.com/in/anderson-andre-pereira/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFNJAFWZ2h5nA/profile-displayphoto-shrink_800_800/0/1606771778737?e=1629936000&v=beta&t=mh0jVEGG_fvkE16VwussiwgJdlbK9IkSGPIXMSPKstI" width="100px;" alt=""/>
- <br />
+ <!-- <img style="border-radius: 50%;" src="" width="100px;" alt=""/> -->
+ <!-- <br /> -->
  <sub><b>Anderson André</b></sub></a> <a href="https://www.linkedin.com/in/anderson-andre-pereira/" title="LinkedIn">🚀</a>
 
 
