@@ -139,7 +139,7 @@ body.dark-theme {
 }
 
 .dark-theme .message__input {
-    background-color: var(--container-color);
+    background-color: var(--body-color);
 }
 
 .dark-theme .message__button {
