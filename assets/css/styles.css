@@ -645,3 +645,15 @@ body.dark-theme {
     bottom: 3rem;
 }
 
+/*=============== SCROLL BAR ===============*/
+
+::-webkit-scrollbar {
+    width: .6rem;
+    background: hsl(355, 8%, 44%);
+    border-radius: 1rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: hsl(355, 32%, 17%);
+    border-radius: 1rem;
+}
