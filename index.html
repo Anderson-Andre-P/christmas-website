@@ -29,7 +29,7 @@
             </a>
 
             <div class="nav__menu" id="nav-menu">
-                <ul class="nav__list">
+                <ul class="nav__list" role="menu">
                     <li class="nav__item">
                         <a href="#home" class="nav__link active-link">
                             Home
@@ -52,7 +52,7 @@
                     </li>
                 </ul>
 
-                <div class="nav__close" id="nav-close">
+                <div class="nav__close" aria-label="Fechar navegação" id="nav-close">
                     <i class="bx bx-x"></i>
                 </div>
 
@@ -61,10 +61,10 @@
 
             <div class="nav__btns">
                 <!-- Theme change button -->
-                <i class="bx bx-moon change-theme" id="theme-button"></i>
+                <i class="bx bx-moon change-theme" aria-label="Alterar tema" id="theme-button"></i>
 
                 <!-- Toggle button -->
-                <div class="nav__toggle" id="nav-toggle">
+                <div class="nav__toggle" aria-label="Abrir navegação" aria-haspopup="true" aria-controls="menu" aria-expanded= "false" id="nav-toggle">
                     <i class="bx bx-grid-alt"></i>
                 </div>
             </div>
